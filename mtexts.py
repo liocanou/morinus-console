@@ -1398,7 +1398,7 @@ txtsita = {'DiscardCurrHor':u'Vuoi scartare questo oroscopo?', 'FileError':u'Err
 menutxtsfre = {'MHoroscope':u'&Thème', 'HMNew':u'&Nouveau\tCtrl+N', 'HMNewDoc':u'Créer un nouveau thème', 'HMData':u'&Données\tCtrl+D', 
 'HMDataDoc':u'Editer un thème existant',
 # ############### V 7.2.0
-'HMHereAndNow':u'Ici et &Maintenant\tCtrl+M', 'HMHereAndNowDoc':u'Thème Ici et maintenant',
+'HMHereAndNow':u'The&me du Jour\tCtrl+M', 'HMHereAndNowDoc':u'Thème du Jour',
 # ###############
 'HMLoad':u'&Ouvrir\tCtrl+O', 'HMLoadDoc':u'Ouvrir un thème existant', 'HMSave':u'Enregi&strer\tCtrl+S', 
 'HMSaveDoc':u'Enregistrer le thème', 'HMSaveAsBmp':u'Enregistrer image &Bmp\tCtrl+B', 'HMSaveAsBmpDoc':u'Enregistrer le thème au format image BMP', 
